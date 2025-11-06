@@ -1,4 +1,4 @@
-```markdown
+
 # first-simple-rust-project
 
 This workspace now includes a minimal Rust project and VS Code configuration to make it easy to develop, build and debug Rust code.
